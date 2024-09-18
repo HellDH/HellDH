@@ -4,7 +4,7 @@
 </div>
 
 <div>
-  <h3>Who am i ?</h3>
+  <h3>Who am I ?</h3>
   <p>I'm Daniel Utkin (aka HellDH), I'm a college student and backend developer</p>
 </div>
 
