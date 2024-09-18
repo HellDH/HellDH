@@ -1,16 +1,15 @@
-## Hi there 👋
+<div align="center">
+  <img src="https://i.postimg.cc/Znb1TYgw/helldh.png">
+  <h1>👋 Hi there!</h1>
+</div>
 
-<!--
-**HellDH/HellDH** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div>
+  <h3>Who am i ?</h3>
+  <p>I'm Daniel Utkin (aka HellDH), I'm a college student and backend developer</p>
+</div>
 
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+### About me:
+* 🧑 I'm **18** years old
+* 🇷🇺 I live in **Moscow, Russia**
+* 🐍 My major language is **Python**
+* 🔤 Currently learning **C++**
