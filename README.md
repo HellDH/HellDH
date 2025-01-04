@@ -12,4 +12,4 @@
 * 🧑 I'm **18** years old
 * 🇷🇺 I live in **Moscow, Russia**
 * 🐍 My major language is **Python**
-* 🔤 Currently learning **C++**
+* 🔤 Currently learning **C**
